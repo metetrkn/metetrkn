@@ -9,10 +9,9 @@
 
 <h3 align="left">Resume:</h3>
 <p align="left">
-    📄 Check out my [Resume][resume-link]
+    [📄 Check out my Resume](https://www.linkedin.com/in/mete-turkan/overlay/1635552291051/single-media-viewer/?profileId=ACoAADpt7pQBUdvbpjI4Ts1zA95G8o3bOJnFZg4)
 </p>
 
-[resume-link]: https://www.linkedin.com/in/mete-turkan/overlay/1635552291051/single-media-viewer/?profileId=ACoAADpt7pQBUdvbpjI4Ts1zA95G8o3bOJnFZg4
 
 
 
