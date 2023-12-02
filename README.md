@@ -7,13 +7,6 @@
 
 - 📫 How to reach me **metetrkn52@gmail.com**
 
-<h3 align="left">Resume:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/mete-turkan/overlay/1635552291051/single-media-viewer/?profileId=ACoAADpt7pQBUdvbpjI4Ts1zA95G8o3bOJnFZg4" target="_blank">Resume</a>
-</p>
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mete-turkan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="metetrkn" height="30" width="40" /></a>
