@@ -25,8 +25,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
     </a>
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-        <img src="https://simpleicons.org/icons/amazonaws.svg" alt="AWS" width="40" height="40"/>
-    </a>        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
+    </a>   
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
     </a>
